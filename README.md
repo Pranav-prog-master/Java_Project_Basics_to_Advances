@@ -43,7 +43,6 @@ Enjoy the puzzle!
 ---
 
 
-
 # 🧠 Day-02 :- Simple Console Calculator
 A classic, straightforward console calculator built to demonstrate fundamental programming principles in different languages. This project provides a clean, easy-to-understand implementation of basic arithmetic operations.
 
@@ -55,13 +54,10 @@ This repository contains the source code for a simple command-line calculator. T
 ---
 
 ## ✨ Features
-User-Friendly Interface: A simple menu-driven system for easy operation.
-
-Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-
-Error Handling: Includes basic checks, such as for division by zero.
-
-Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
+- User-Friendly Interface: A simple menu-driven system for easy operation.
+- Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+- Error Handling: Includes basic checks, such as for division by zero.
+- Cross-Platform: Designed to be compiled and run on any system with a standard compiler.
 
 ---
 
@@ -75,3 +71,36 @@ The Java version is a fully object-oriented implementation. It uses a Scanner fo
 
 ## 🔧 How to Run
 Please refer to the source code file for your language of choice for specific compilation and execution instructions.
+For Java: javac Simplecalculator.java && SimpleCalculator
+
+
+---
+
+
+# 🧠 DAY-03 :- Digital Clock Console Application
+A classic and elegant digital clock implemented in the console. This project demonstrates the fundamentals of time handling and continuous updates in three different programming languages: C, C++, and Java.
+
+## 🌟 About This Project
+This repository contains a simple yet functional digital clock that displays the current time and date directly in your terminal. The clock updates every second, providing a live feed of the current time. It's an excellent project for understanding time libraries, loops, and cross-platform console manipulation.
+
+---
+
+## ✨ Features
+- Real-Time Display: Shows the current time, updating every second. 
+- Date Display: Shows the current date, including the day of the week.
+- Customizable Time Format: Users can choose between 12-hour (AM/PM) and 24-hour formats at the start.
+- Cross-Platform: Designed to run on both Windows and UNIX-like systems (Linux, macOS).
+
+---
+
+## 🚀 Versions
+This project is available in three different programming languages, each showcasing a unique approach:
+
+Java Version
+A fully object-oriented and platform-independent implementation. This version uses the modern java.time package for handling dates and times and leverages Java's built-in threading for the one-second delay, highlighting Java's strengths in creating portable and reliable applications.
+
+--- 
+
+## 🔧 How to Run
+For each version, you will need the appropriate compiler (GCC for C/C++, JDK for Java). You can compile and run the source file from your terminal.
+For Java: javac DigitalClock.java && java DigitalClock
