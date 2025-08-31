@@ -64,8 +64,7 @@ This repository contains the source code for a simple command-line calculator. T
 ## 🚀 Versions
 This project is available in three different programming languages:
 
-Java Version
-The Java version is a fully object-oriented implementation. It uses a Scanner for user input and is structured within a class, following standard Java conventions. This version highlights Java's platform independence and robust error handling with try-catch blocks.
+**Java Version** - The Java version is a fully object-oriented implementation. It uses a Scanner for user input and is structured within a class, following standard Java conventions. This version highlights Java's platform independence and robust error handling with try-catch blocks.
 
 ---
 
@@ -96,8 +95,7 @@ This repository contains a simple yet functional digital clock that displays the
 ## 🚀 Versions
 This project is available in three different programming languages, each showcasing a unique approach:
 
-Java Version
-A fully object-oriented and platform-independent implementation. This version uses the modern java.time package for handling dates and times and leverages Java's built-in threading for the one-second delay, highlighting Java's strengths in creating portable and reliable applications.
+**Java Version** - A fully object-oriented and platform-independent implementation. This version uses the modern java.time package for handling dates and times and leverages Java's built-in threading for the one-second delay, highlighting Java's strengths in creating portable and reliable applications.
 
 --- 
 
@@ -132,7 +130,7 @@ This repository contains source code for a basic progress bar that updates in re
 
 ## 🚀 Versions
 
-Java Version  : Implements the progress bar using `System.out.printf()` and `Thread.sleep()` for smooth console updates.
+**Java Version**  : Implements the progress bar using `System.out.printf()` and `Thread.sleep()` for smooth console updates.
 
 ---
 
@@ -140,3 +138,37 @@ Java Version  : Implements the progress bar using `System.out.printf()` and `Thr
 
 Refer to the source code files for each language. Below are sample compilation and execution commands:
 For Java : javac ProgressBar.java && java ProgressBar
+
+
+# 🧠 DAY-05 :-Console-Based User Management System
+A robust, cross-platform User Management System designed to demonstrate core principles of data handling, security, and user interaction in different programming languages.
+
+---
+
+## 🌟 About This Project
+This repository contains the source code for a console-based application that allows users to register and log in. It features a secure, in-memory database and a clean, interactive interface. A key feature is the cross-platform password masking, which hides user input for enhanced security on any operating system.
+
+---
+
+## ✨ Features
+- User Registration: Allows new users to create an account.
+- User Login: Authenticates existing users with their credentials.
+- Password Masking: Hides password input for security (e.g., shows * instead of characters).
+- Cross-Platform: The C and C++ versions are designed with conditional compilation to run seamlessly on Windows, macOS, and Linux.
+
+---
+
+## 🚀 Versions
+This project is available in three different programming languages, each showcasing a unique approach to solving the same problem.
+
+**Java Version** - The Java version is a fully object-oriented and platform-independent solution. It uses an ArrayList to manage user data and Java's Console class for secure password handling, highlighting Java's strengths in creating secure, portable, and robust applications.
+
+---
+
+## 🔧 How to Run
+
+Refer to the source code files for each language. Below are sample compilation and execution commands:
+For Java : javac UserManagement.java && java UserManagement
+
+
+---
