@@ -174,7 +174,7 @@ For Java : javac UserManagement.java && java UserManagement
 ---
 
 
-# 🧠 DAY-05 :- Console Bank Management System
+# 🧠 DAY-06 :- Console Bank Management System
 A comprehensive, console-based banking application built to demonstrate fundamental and advanced programming concepts across Java. This project simulates the core functionalities of a bank account management system, focusing on data persistence, user interaction, and robust error handling.
 
 ---
