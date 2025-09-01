@@ -210,7 +210,7 @@ For Java : javac Bank_Management_System.java && java Bank_Management_System
 
 
 # 🧠 DAY-07 :- Sudoku Solver
-A classic Sudoku puzzle solver built to demonstrate the power of the backtracking algorithm. This project, available in C, C++, and Java, takes a hardcoded 9x9 Sudoku puzzle with empty cells (represented by 0) and efficiently finds the solution.
+A classic Sudoku puzzle solver built to demonstrate the power of the backtracking algorithm. This project, available in Java, takes a hardcoded 9x9 Sudoku puzzle with empty cells (represented by 0) and efficiently finds the solution.
 
 ---
 
