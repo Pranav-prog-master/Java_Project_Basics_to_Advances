@@ -275,7 +275,7 @@ For Java : javac TicTacToe.java && java TicTacToe
 
 
 # 🧠 DAY-09 :- Laundry Management System
-A straightforward and efficient console-based application designed to manage laundry service registrations and logins. This project, available in C, C++, and Java, showcases how to handle user data, perform file operations, and structure a practical application.
+A straightforward and efficient console-based application designed to manage laundry service registrations and logins. This project, available in Java, showcases how to handle user data, perform file operations, and structure a practical application.
 
 ---
 
